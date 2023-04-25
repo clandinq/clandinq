@@ -1,8 +1,10 @@
 ### Hola,
 
-I'm an Empirical Research Fellow at the Kellogg School of Management, Northwestern University. I'll be joining the [Vancouver School of Economics at UBC](https://economics.ubc.ca/) for my Ph.D. in Economics in the fall.
+I'm an Empirical Research Fellow at the Kellogg School of Management, Northwestern University. 
 
-### Current projects
+I'll be joining the [Vancouver School of Economics](https://economics.ubc.ca/) at the University of British Columbia for my Ph.D. in Economics in the fall.
+
+### Current Projects
 I'm currently working on the following projects:
 - 👨‍💻 [R for Economists](https://clandinq.github.io/recon/): An R programming guide for economics research.
 - 📨 [remindR](https://github.com/clandinq/remindr): An academic reminder system programmed in R.
