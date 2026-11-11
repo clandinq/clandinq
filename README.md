@@ -1,6 +1,6 @@
 I'm César, a Ph.D. Candidate in Economics at the [Vancouver School of Economics](https://economics.ubc.ca/), University of British Columbia. I work on political economy and labour economics: anti-corruption enforcement and public procurement, and the economic and institutional roots of political polarization.
 
-🌐 [clandinq.github.io](https://clandinq.github.io/) · 💼 [LinkedIn](https://www.linkedin.com/in/cesarlandin/) · ✉️ [clandinq@student.ubc.ca](mailto:clandinq@student.ubc.ca)
+🌐 [clandinq.github.io](https://clandinq.github.io/) · 💼 [LinkedIn](https://www.linkedin.com/in/cesarlandin/)
 
 ### Public goods
 Open resources for empirical researchers:
