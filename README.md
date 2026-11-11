@@ -1,13 +1,16 @@
-### Hola,
+Hola, I'm César, a Ph.D. Candidate in Economics at the [Vancouver School of Economics](https://economics.ubc.ca/), University of British Columbia. I work on political economy and public economics: anti-corruption enforcement and public procurement, and the economic and institutional roots of political polarization.
 
-I'm an third-year PhD student at UBC's [Vancouver School of Economics](https://economics.ubc.ca/).
+🌐 [clandinq.github.io](https://clandinq.github.io/) · 💼 [LinkedIn](https://www.linkedin.com/in/cesarlandin/) · ✉️ [clandinq@student.ubc.ca](mailto:clandinq@student.ubc.ca)
 
-### Public Goods
-Here are some repos that contain useful code that I've worked on:
-- 👨‍💻 [R for Economists](https://clandinq.github.io/recon/): An R programming guide for economics research.
+### Public goods
+Open resources for empirical researchers:
+- 📘 **[R for Economists](https://clandinq.github.io/recon/)** ([repo](https://github.com/clandinq/recon)): a guide to R programming for economics research.
+- ⏰ **[remindR](https://github.com/clandinq/remindr)**: automated email reminders for conference, grant and presentation deadlines (R, Gmail API; Mac, Linux and Windows).
+- 🎓 **[UBC templates](https://github.com/clandinq/ubc_template)**: LaTeX document and Beamer templates in UBC colours, with the UBC logo.
 
-[![R for Economists](https://github-readme-stats.vercel.app/api/pin/?username=clandinq&repo=recon)](https://github.com/clandinq/recon)
+### Tools & side projects
+- ⏱️ **[Tempo](https://github.com/clandinq/tempo)**: a minimal macOS menu bar time tracker (SwiftUI, Swift Charts, no dependencies).
+- 🔁 **[backup_automation](https://github.com/clandinq/backup_automation)**: unattended Dropbox backups and nightly Git sync across repos, using macOS launchd.
+- 🤖 **[codex-delegate](https://github.com/clandinq/codex-delegate)**: a Claude Code skill that hands implementation work to the OpenAI Codex CLI.
 
-### Github Stats
-
-[![César's Github Stats](https://github-readme-stats.vercel.app/api?username=clandinq&count_private=true&theme=default&show_icons=true)](https://github.com/clandinq)
+**Tools:** R · Python · Stata · Julia · MATLAB · LaTeX · Git · LLM APIs and agentic coding tools
