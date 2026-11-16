@@ -12,5 +12,6 @@ Open resources for empirical researchers:
 - ⏱️ **[Tempo](https://github.com/clandinq/tempo)**: a minimal macOS menu bar time tracker (SwiftUI, Swift Charts, no dependencies).
 - 🔁 **[backup_automation](https://github.com/clandinq/backup_automation)**: unattended Dropbox backups and nightly Git sync across repos, using macOS launchd.
 - 🤖 **[codex-delegate](https://github.com/clandinq/codex-delegate)**: a Claude Code skill that hands implementation work to the OpenAI Codex CLI.
+- 🪟 **[noon](https://github.com/clandinq/noon)**: Moom-style window halves for macOS, in one Hammerspoon Spoon (Lua).
 
 **Tools:** R · Python · Stata · Julia · MATLAB · LaTeX · Git · LLM APIs and agentic coding tools
